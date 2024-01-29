@@ -1,4 +1,4 @@
-import{f as i,s as o,Q as e}from"./index-a32c6be0.js";const r="/fs-86-react-node-SaltyUA/assets/bgFood-46dd5bc9.png",n="/fs-86-react-node-SaltyUA/assets/bgFood2x-515a5477.png",t=i(e)`
+import{f as i,s as o,Q as e}from"./index-a2a02c39.js";const r="/fs-86-react-node-SaltyUA/assets/bgFood-46dd5bc9.png",n="/fs-86-react-node-SaltyUA/assets/bgFood2x-515a5477.png",t=i(e)`
 display: flex;
 align-items:center;
 gap: 8px;
