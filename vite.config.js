@@ -12,5 +12,5 @@ export default defineConfig({
       assets: '/src/assets',
     },
   },
-  base: '/power-pulse-fs',
+  base: '/fs-86-react-node-SaltyUA',
 });
